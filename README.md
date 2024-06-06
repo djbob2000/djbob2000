@@ -10,7 +10,7 @@ Also, I have hands-on experience in following Agile/Scrum methodology when worki
 company.
 
 - :zap: [My CV](https://drive.google.com/file/d/1WJxbwFgqkqCYpqZBrvqC9LOq7gy0BetD/view?usp=drive_link)
-- 
+
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
