@@ -84,4 +84,4 @@ company.
   </tr>
 </table>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=djbob2000)
+[![Volodymyr Peretiatko profile views](https://u8views.com/api/v1/github/profiles/42965749/views/day-week-month-total-count.svg)](https://u8views.com/github/djbob2000)
