@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-I'm a FullStack developer with more than 1 year of commercial experience in developing websites using technologies such as HTML, CSS, JavaScript, Typescript, React, Next, Redux Toolkit, RTK Query, Tanstack Query, Node, Express, Koa, MongoDB, PostgreSQL.
+I'm a FullStack developer with 2 year of commercial experience in developing websites using technologies such as HTML, CSS, JavaScript, Typescript, React, Next, Redux Toolkit, RTK Query, Tanstack Query, Node, Express, Koa, MongoDB, PostgreSQL.
 I am responsible, always ready to learn new things and complete tasks on time.
 Also, I have hands-on experience in following Agile/Scrum methodology when working in a team. I am looking for a friendly team to develop my tech skills that will be useful to your
 company.
