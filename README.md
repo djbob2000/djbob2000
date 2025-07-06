@@ -16,7 +16,7 @@ company.
 </p>
 
 #### Contacts:
-- [![Static Badge](https://img.shields.io/badge/-volodymyr_peretiatko-blue%3Fstyle%3Dflat%26logo%3DTelegram%26logoColor%3Dwhite?logo=telegram&color=blue)](https://t.me/VlPereti)
+- [![Static Badge](https://img.shields.io/badge/-volodymyr_peretiatko-blue%3Fstyle%3Dflat%26logo%3DTelegram%26logoColor%3Dwhite?logo=telegram&color=blue)](https://t.me/vova050051)
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:peretyatko.vl@gmail.com)
 
 ---
